@@ -1,0 +1,19 @@
+{
+  "name": "filim",
+  "version": "1.0.0",
+  "description": "App for add filters in a picture.",
+  "main": "index.js",
+  "scripts": {
+     "start" : "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferch2109/Filim.git"
+  },
+  "author": "ferch2109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferch2109/Filim/issues"
+  },
+  "homepage": "https://github.com/Ferch2109/Filim#readme"
+}

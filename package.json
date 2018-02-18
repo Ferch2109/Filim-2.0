@@ -4,7 +4,7 @@
   "description": "App for add filters in a picture.",
   "main": "index.js",
   "scripts": {
-     "start" : "electron main.js"
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Ferch2109/Filim/issues"
   },
-  "homepage": "https://github.com/Ferch2109/Filim#readme"
+  "homepage": "https://github.com/Ferch2109/Filim#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "script-loader": "^0.7.2"
+  }
 }

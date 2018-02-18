@@ -1,5 +1,7 @@
- document.addEventListener("load", nav);
-
- function nav(){
-  var nav = getElementsByTagName('nav');
- }
+// $(document).ready(function(){
+//   $('.dropdown-submenu a.test').on("click", function(e){
+//     $(this).next('ul').toggle();
+//     e.stopPropagation();
+//     e.preventDefault();
+//   });
+// });
